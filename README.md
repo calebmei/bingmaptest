@@ -1,0 +1,2 @@
+# bingmaptest
+test github
